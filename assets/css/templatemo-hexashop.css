@@ -2517,8 +2517,6 @@ body{
    font-weight: 300;
    padding: 16px 0 16px 0;
    letter-spacing: 4px;
-   text-transform: capitalize;
-   line-height: 1.1;
  }
 .title-small, .title-small-list{
   font-size: 18px;
@@ -2526,9 +2524,6 @@ body{
 }
 .title-small-list{
   margin-bottom: 16px;
-}
-.title-small div{
-  text-transform: capitalize;
 }
 .text-price{
   font-size: 16px;
@@ -2558,13 +2553,5 @@ body{
     padding: 0 0 10px 0;
     font-size: 25px;
     border-bottom: 2px solid #6ad6bc!important;
-    text-transform: capitalize;
   }
 }
-@media (max-width: 480px){
-  .title-big{
-    padding: 10px 0 0 0;
-  }
-}
-
-
